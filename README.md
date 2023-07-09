@@ -12,6 +12,7 @@ To run this project you have to follow specific steps:-
   - Inside the project directory, type `npm i` in the terminal.
   - Open the second terminal, and enter `npx hardhat node`.  (This will initiate hardhat)
   - Open the third terminal and type, `npx hardhat run --network localhost scripts/deploy.js`. (This will deploy the contract)
+
 NOTE: Do the steps in order.
 
 ### Tech Used
