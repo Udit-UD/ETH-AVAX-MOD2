@@ -10,6 +10,7 @@ In this contract, the functionality of the basic ATM is implemented. Where users
 
 To run this project you have to follow specific steps:-
   - Inside the project directory, type `npm i` in the terminal.
+  - After installing the necessary dependencies, type `npm run dev` to start the server.
   - Open the second terminal, and enter `npx hardhat node`.  (This will initiate hardhat)
   - Open the third terminal and type, `npx hardhat run --network localhost scripts/deploy.js`. (This will deploy the contract)
 
